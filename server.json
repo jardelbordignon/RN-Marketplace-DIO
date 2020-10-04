@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "RX 135",
+      "image_url": "https://i.pinimg.com/564x/b5/eb/3b/b5eb3b08333665f572d08b439f5cff93.jpg",
+      "price": 9850
+    },
+    {
+      "id": 2,
+      "title": "TT 125",
+      "image_url": "https://itacuamotos.com.br/images/TT-125_1979_01.jpg",
+      "price": 9530
+    },
+    {
+      "id": 3,
+      "title": "RD 135",
+      "image_url": "https://i.ytimg.com/vi/eqeU2gD6OPc/hqdefault.jpg",
+      "price": 7250
+    },
+    {
+      "id": 4,
+      "title": "RS 100",
+      "image_url": "https://i.pinimg.com/564x/48/aa/5e/48aa5e51648674a2b586cd4c2131020a.jpg",
+      "price": 9730
+    },
+    {
+      "id": 5,
+      "title": "Turuna",
+      "image_url": "https://farm3.static.flickr.com/2702/4340787771_456bb7cfc2_b.jpg",
+      "price": 8580
+    }
+  ]
+}
+
